@@ -7,9 +7,8 @@
 def task(num):
     print(f'This is my Task, {num}')
 
-
-task(6)
-
+num = 6
+task(num)
 
 
 
